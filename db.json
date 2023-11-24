@@ -1,0 +1,181 @@
+{
+    "homeFilters": [
+        { "title": "All", "id": 1 },
+        { "title": "New to you", "special": true, "id": 2 },
+        { "title": "Music", "id": 3 },
+        { "title": "Lo-fi", "id": 4 },
+        { "title": "Gaming", "id": 5 }
+    ],
+    "subscriptionFilters": [
+        { "title": "All", "id": 1 },
+        { "title": "Today", "id": 2 },
+        { "title": "Live", "id": 3 },
+        { "title": "Continue watching", "id": 4 },
+        { "title": "Unwatched", "id": 5 }
+    ],
+    "shorts": [
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/fast-food-app-in-react-native_qnbxzw.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Fast Food App in React Native",
+            "channelTag": "@user-yh6zs8jp2d",
+            "like": 499167,
+            "dislike": 706913,
+            "comment": 907454,
+            "duration": 21,
+            "id": 1,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/xiaomi-pad-6-unboxing_yy2ejp.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816329/reactnative/youtube/xiaomi-pad-6-unboxing_p4hx9i.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Xiaomi Pad 6 unboxing!",
+            "channelTag": "@user-yh6zs8jp2d",
+            "like": 412851,
+            "dislike": 597957,
+            "comment": 57038,
+            "duration": 13,
+            "id": 2,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/react-elements-vs-react-components_djdwmc.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/vite-va-create-react-app-frontend_p17bxt.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Vite và Create React App (Frontend)",
+            "channelTag": "@user-yh6zs8jp2d",
+            "like": 656157,
+            "dislike": 652206,
+            "comment": 184210,
+            "duration": 19,
+            "id": 3,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/vite-va-create-react-app-frontend_gh8j21.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816327/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_h3yhcc.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKYHR6Z9fkRsZAUrQ06A4gA9BtWIBM515KjJD6PdKw=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Top 3 reasons why you should learn React Native",
+            "channelTag": "@tfboystogetherforever68",
+            "like": 48016,
+            "dislike": 81694,
+            "comment": 399380,
+            "duration": 17,
+            "id": 4,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_ztiq3d.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816330/reactnative/youtube/the-most-beautiful-laptop-i-ve-ever-seen_nhxmft.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKYHR6Z9fkRsZAUrQ06A4gA9BtWIBM515KjJD6PdKw=s176-c-k-c0x00ffffff-no-rj",
+            "title": "The Most Beautiful Laptop I've Ever Seen!",
+            "channelTag": "@tfboystogetherforever68",
+            "like": 921470,
+            "dislike": 405128,
+            "comment": 887260,
+            "duration": 24,
+            "id": 5,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/the-most-beautiful-laptop-i-ve-ever-seen_vp0qf8.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816326/reactnative/youtube/stop-using-create-react-app_s846ag.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZClkjQwqXW6_ldZ4nStodUND7qj3Mc-0MArr1fDQ=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Stop Using Create React App",
+            "channelTag": "@ALLFORKARRYWANG",
+            "like": 87471,
+            "dislike": 106495,
+            "comment": 510372,
+            "duration": 12,
+            "id": 7,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/stop-using-create-react-app_e2ttvm.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816326/reactnative/youtube/software-engineer-vs-designer_rm3ymn.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Software Engineer Vs Designer",
+            "channelTag": "@user-yh6zs8jp2d",
+            "like": 602926,
+            "dislike": 318770,
+            "comment": 888698,
+            "duration": 15,
+            "id": 8,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/software-engineer-vs-designer_adhbfk.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816331/reactnative/youtube/should-you-learn-react-native_dyixba.mp4",
+            "avatar": "https://yt3.googleusercontent.com/mDE-NZrNIctQO9Y8yPW2z2lTm__RVhaTUTSEm_Z2pej8Q-QM32yFXkUFCShFd1_PTaUc6Xzitg=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Should YOU Learn React Native",
+            "channelTag": "@wangjunkai-1314",
+            "like": 724056,
+            "dislike": 869152,
+            "comment": 383195,
+            "duration": 11,
+            "id": 10,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816325/reactnative/youtube/should-you-learn-react-native_mndaoj.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816327/reactnative/youtube/ryzen-5-5600x-vs-intel-i5-12400f-intel-vs-amd_u4ohtn.mp4",
+            "avatar": "https://yt3.googleusercontent.com/mDE-NZrNIctQO9Y8yPW2z2lTm__RVhaTUTSEm_Z2pej8Q-QM32yFXkUFCShFd1_PTaUc6Xzitg=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Ryzen 5 5600x vs intel i5 12400F - Intel vs AMD",
+            "channelTag": "@wangjunkai-1314",
+            "like": 971847,
+            "dislike": 467387,
+            "comment": 800033,
+            "duration": 13,
+            "id": 11,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/ryzen-5-5600x-vs-intel-i5-12400f-intel-vs-amd_tlbvmd.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/react-or-vue-js-which-one-should-i-learn_hcos7t.webp",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "React or Vue.js Which one should I learn",
+            "channelTag": "@SmashtheTin",
+            "like": 333797,
+            "dislike": 510146,
+            "comment": 210369,
+            "id": 12,
+            "image": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/react-or-vue-js-which-one-should-i-learn_enba9y.mp4"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/react-native-dating-app_gst8ro.mp4",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "React native dating app",
+            "channelTag": "@SmashtheTin",
+            "like": 280303,
+            "dislike": 437553,
+            "comment": 709352,
+            "id": 13,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/react-native-dating-app_xfvddh.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816329/reactnative/youtube/react-most-asked-interview-question-pt1_kodlep.mp4",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "React Most Asked Interview Question pt1",
+            "channelTag": "@SmashtheTin",
+            "like": 973945,
+            "dislike": 497228,
+            "comment": 534583,
+            "id": 14,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/react-most-asked-interview-question-pt1_w2rfjn.jpg"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816327/reactnative/youtube/react-elements-vs-react-components_qms8nz.mp4",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "React Elements vs React Components",
+            "channelTag": "@SmashtheTin",
+            "like": 23808,
+            "dislike": 46194,
+            "comment": 390132,
+            "id": 15,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816322/reactnative/youtube/fast-food-app-in-react-native_udtqvo.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816331/reactnative/youtube/flutter-vs-react-native_jbbczq.mp4",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Flutter Vs React Native!",
+            "channelTag": "@SmashtheTin",
+            "like": 952963,
+            "dislike": 472947,
+            "comment": 248534,
+            "id": 16,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816325/reactnative/youtube/flutter-vs-react-native_dnedss.jpg"
+        }
+    ]
+}
