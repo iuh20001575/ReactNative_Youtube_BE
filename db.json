@@ -13,6 +13,13 @@
         { "title": "Continue watching", "id": 4 },
         { "title": "Unwatched", "id": 5 }
     ],
+    "searchResultFilters": [
+        { "title": "All", "id": 1 },
+        { "title": "Shorts", "id": 2 },
+        { "title": "Unwatched", "id": 3 },
+        { "title": "Watched", "id": 4 },
+        { "title": "Recently uploaded", "id": 5 }
+    ],
     "shorts": [
         {
             "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/fast-food-app-in-react-native_qnbxzw.mp4",
