@@ -46,30 +46,6 @@
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/react-elements-vs-react-components_djdwmc.webp"
         },
         {
-            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/vite-va-create-react-app-frontend_p17bxt.mp4",
-            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
-            "title": "Vite và Create React App (Frontend)",
-            "channelTag": "@user-yh6zs8jp2d",
-            "like": 656157,
-            "dislike": 652206,
-            "comment": 184210,
-            "duration": 19,
-            "id": 3,
-            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/vite-va-create-react-app-frontend_gh8j21.webp"
-        },
-        {
-            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816327/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_h3yhcc.mp4",
-            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKYHR6Z9fkRsZAUrQ06A4gA9BtWIBM515KjJD6PdKw=s176-c-k-c0x00ffffff-no-rj",
-            "title": "Top 3 reasons why you should learn React Native",
-            "channelTag": "@tfboystogetherforever68",
-            "like": 48016,
-            "dislike": 81694,
-            "comment": 399380,
-            "duration": 17,
-            "id": 4,
-            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_ztiq3d.webp"
-        },
-        {
             "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816330/reactnative/youtube/the-most-beautiful-laptop-i-ve-ever-seen_nhxmft.mp4",
             "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKYHR6Z9fkRsZAUrQ06A4gA9BtWIBM515KjJD6PdKw=s176-c-k-c0x00ffffff-no-rj",
             "title": "The Most Beautiful Laptop I've Ever Seen!",
@@ -80,18 +56,6 @@
             "duration": 24,
             "id": 5,
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/the-most-beautiful-laptop-i-ve-ever-seen_vp0qf8.webp"
-        },
-        {
-            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816326/reactnative/youtube/stop-using-create-react-app_s846ag.mp4",
-            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZClkjQwqXW6_ldZ4nStodUND7qj3Mc-0MArr1fDQ=s176-c-k-c0x00ffffff-no-rj",
-            "title": "Stop Using Create React App",
-            "channelTag": "@ALLFORKARRYWANG",
-            "like": 87471,
-            "dislike": 106495,
-            "comment": 510372,
-            "duration": 12,
-            "id": 7,
-            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/stop-using-create-react-app_e2ttvm.webp"
         },
         {
             "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816326/reactnative/youtube/software-engineer-vs-designer_rm3ymn.mp4",
@@ -128,6 +92,53 @@
             "duration": 13,
             "id": 11,
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/ryzen-5-5600x-vs-intel-i5-12400f-intel-vs-amd_tlbvmd.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816327/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_h3yhcc.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKYHR6Z9fkRsZAUrQ06A4gA9BtWIBM515KjJD6PdKw=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Top 3 reasons why you should learn React Native",
+            "channelTag": "@tfboystogetherforever68",
+            "like": 48016,
+            "dislike": 81694,
+            "comment": 399380,
+            "duration": 17,
+            "id": 3,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/top-3-reasons-why-you-should-learn-react-native_ztiq3d.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816328/reactnative/youtube/vite-va-create-react-app-frontend_p17bxt.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZjNCCjG_SqwCilEyRivAF0FrJkzXYBZei9hmJ2Ew=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Vite và Create React App (Frontend)",
+            "channelTag": "@user-yh6zs8jp2d",
+            "like": 656157,
+            "dislike": 652206,
+            "comment": 184210,
+            "duration": 19,
+            "id": 4,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/vite-va-create-react-app-frontend_gh8j21.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816326/reactnative/youtube/stop-using-create-react-app_s846ag.mp4",
+            "avatar": "https://yt3.googleusercontent.com/ytc/APkrFKZClkjQwqXW6_ldZ4nStodUND7qj3Mc-0MArr1fDQ=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Stop Using Create React App",
+            "channelTag": "@ALLFORKARRYWANG",
+            "like": 87471,
+            "dislike": 106495,
+            "comment": 510372,
+            "duration": 12,
+            "id": 7,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816323/reactnative/youtube/stop-using-create-react-app_e2ttvm.webp"
+        },
+        {
+            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816331/reactnative/youtube/flutter-vs-react-native_jbbczq.mp4",
+            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
+            "title": "Flutter Vs React Native!",
+            "channelTag": "@SmashtheTin",
+            "like": 952963,
+            "dislike": 472947,
+            "comment": 248534,
+            "id": 16,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816325/reactnative/youtube/flutter-vs-react-native_dnedss.jpg"
         },
         {
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816324/reactnative/youtube/react-or-vue-js-which-one-should-i-learn_hcos7t.webp",
@@ -172,17 +183,6 @@
             "comment": 390132,
             "id": 15,
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816322/reactnative/youtube/fast-food-app-in-react-native_udtqvo.webp"
-        },
-        {
-            "videoUrl": "https://res.cloudinary.com/dfcvahbig/video/upload/v1700816331/reactnative/youtube/flutter-vs-react-native_jbbczq.mp4",
-            "avatar": "https://yt3.googleusercontent.com/99Qz5XmiRO6N9bxtHw2bIhvvuunA-5sBivsWadB0M1HoJm1YV1iK9CdfJWKrsYLyPGHGA_8iy2I=s176-c-k-c0x00ffffff-no-rj",
-            "title": "Flutter Vs React Native!",
-            "channelTag": "@SmashtheTin",
-            "like": 952963,
-            "dislike": 472947,
-            "comment": 248534,
-            "id": 16,
-            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816325/reactnative/youtube/flutter-vs-react-native_dnedss.jpg"
         }
     ],
     "playlist": [
