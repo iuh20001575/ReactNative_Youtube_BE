@@ -184,5 +184,71 @@
             "id": 16,
             "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700816325/reactnative/youtube/flutter-vs-react-native_dnedss.jpg"
         }
+    ],
+    "playlist": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700959142/reactnative/youtube/ReactNativevsFlutter_andygv.webp",
+            "videos": [],
+            "title": "React Native",
+            "isPrivate": true
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700959142/reactnative/youtube/ReactNativeAnimations_zutghr.webp",
+            "videos": [1, 2, 3],
+            "title": "RN - Animated",
+            "isPrivate": true
+        }
+    ],
+    "histories": [
+        {
+            "id": 1,
+            "posterUrl": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700959142/reactnative/youtube/ReactNativevsFlutter_andygv.webp",
+            "title": "React Native vs Flutter - I built the same chat app with both",
+            "channelName": "Fireship",
+            "views": 1704620,
+            "date": "2021-10-4",
+            "type": "music",
+            "like": 47000,
+            "duration": 611,
+            "position": 300
+        },
+        {
+            "id": 2,
+            "posterUrl": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700959142/reactnative/youtube/Reactin100Seconds_tf8fea.webp",
+            "title": "React in 100 Seconds",
+            "channelName": "Fireship",
+            "views": 1098970,
+            "date": "2020-9-9",
+            "type": "lo-fi",
+            "like": 43000,
+            "duration": 127,
+            "position": 27
+        },
+        {
+            "id": 3,
+            "posterUrl": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700960946/reactnative/youtube/ForBiggerBlazes_myja0t.webp",
+            "title": "Big Rig Blaze Monster Machine Rescues! | 30 Minute Compilation | Blaze and the Monster Machines",
+            "channelName": "Blaze and the Monster Machines",
+            "views": 960884,
+            "date": "2022-12-9",
+            "type": "gaming",
+            "like": 960,
+            "duration": 15,
+            "position": 15
+        },
+        {
+            "id": 4,
+            "posterUrl": "https://res.cloudinary.com/dfcvahbig/image/upload/v1700960946/reactnative/youtube/ForBiggerEscapes_ivjcyo.jpg",
+            "title": "For Bigger Escape",
+            "channelName": "For Bigger Escape",
+            "views": 234,
+            "date": "2023-10-15",
+            "type": "gaming",
+            "like": 234,
+            "duration": 15,
+            "position": 12
+        }
     ]
 }
