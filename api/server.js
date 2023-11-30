@@ -5,8 +5,8 @@ const cors = require('cors');
 const fs = require('fs');
 
 const server = jsonServer.create();
-const db = JSON.parse(fs.readFileSync('db.json'));
-const router = jsonServer.router(db);
+// const db = JSON.parse(fs.readFileSync('db.json'));
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const PORT = process.env.PORT ?? 8888;
