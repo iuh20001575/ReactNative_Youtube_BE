@@ -20,21 +20,21 @@ server.use(middlewares);
 
 server.use(jsonServer.bodyParser);
 
-server.get('/search/shorts', (req, res) => {
-    const resp = fs.readFileSync('db.json', 'utf8');
-    const data = JSON.parse(resp);
-    const shorts = data.shorts;
+// server.get('/search/shorts', (req, res) => {
+//     const resp = fs.readFileSync('db.json', 'utf8');
+//     const data = JSON.parse(resp);
+//     const shorts = data.shorts;
 
-    const query = req.query.query ?? '';
+//     const query = req.query.query ?? '';
 
-    res.json(
-        shorts.filter((short) => {
-            const regex = new RegExp(query, 'i');
+//     res.json(
+//         shorts.filter((short) => {
+//             const regex = new RegExp(query, 'i');
 
-            return regex.test(short.title);
-        }),
-    );
-});
+//             return regex.test(short.title);
+//         }),
+//     );
+// });
 
 server.use(router);
 
